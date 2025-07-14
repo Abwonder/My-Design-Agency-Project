@@ -47,7 +47,7 @@ span.creative {
 
 @media (max-width: 680){
   .logo{
-    width: 100px;
+    width: 50px;
   }
 
   h1{
@@ -65,7 +65,7 @@ span.creative {
   .card img{
     margin-bottom: 10px;
     width: 100%;
-    display: inline;
+    display: block;
     object-fit: cover;
   }
 }
