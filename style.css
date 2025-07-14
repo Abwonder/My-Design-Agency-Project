@@ -45,7 +45,7 @@ span.creative {
   width: 500px;
 } */
 
-@media (max-width: 680){
+@media (max-width: 1080){
   .logo{
     width: 50px;
   }
@@ -65,7 +65,7 @@ span.creative {
   .card img{
     margin-bottom: 10px;
     width: 100%;
-    display: block;
+    display: inline;
     object-fit: cover;
   }
 }
